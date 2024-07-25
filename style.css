@@ -13,7 +13,7 @@
   width: 150px;
   margin: auto;
   height: 150px;
-  color: #758694;
+  color: #fff;
   background-color: #dc3545;
 }
 
@@ -28,7 +28,7 @@
 
 .tim img {
   width: 250px;
-  border: 10px solid #758694;
+  border: 10px solid #cccccc;
 }
 
 a.social {
@@ -52,5 +52,5 @@ a.social {
   background-size: cover;
   padding-bottom: 20%;
   padding-top: 20%;
-  color: #758694;
+  color: #fff;
 }
